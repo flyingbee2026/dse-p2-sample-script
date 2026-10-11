@@ -5,11 +5,13 @@ Refined lesson materials for a ~60-minute lesson in which students learn **conte
 *"four-day school week" letter to the President of the PTA*.
 
 Contents
-- `F5-P2-sample-script-lesson-Students.docx` - student worksheet (blank tasks, sample script transcribed)
-- `F5-P2-sample-script-lesson-Teacher.docx` - teacher's version (answers, keys and timings in red)
+- `F5-P2-sample-script-lesson-Students.docx` - student worksheet: the original cropped script pages
+  (handwriting kept), plus content, organisation, language, scoring and writing tasks
+- `F5-P2-sample-script-lesson-Teacher.docx` - teacher's version: the same, with answers, keys, timings,
+  the marker's real marks and a typed transcript of the script in an appendix
 - PDF versions of both, and a zip holding all four files.
 
-Lesson shape: Part 1 plan the task and the content (15 min) - Part 2 read the sample: content map,
+Lesson shape: Part 1 plan the task and the content (15 min) - Part 2 read the sample pages: content map,
 how each idea is elaborated, the letter's moves, topic sentences, linking words, 'steal these' language
 (30 min) - Part 3 comment and score the script against a real marker's report, fix the writer's slips,
 write your own opening paragraph (15 min).
